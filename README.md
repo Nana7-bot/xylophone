@@ -1,6 +1,6 @@
 # xylophone
 
-A new Flutter project.
+A new Flutter project. This is a sound playing flutter app.
 
 ## Getting Started
 
